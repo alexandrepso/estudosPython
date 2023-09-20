@@ -1,4 +1,4 @@
-'''calcular o fatorial de um numero'''
+#calcular o fatorial de um numero
 
 def fatorial_interativo(n):
     f=1

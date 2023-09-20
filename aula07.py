@@ -1,4 +1,4 @@
-'''soma de todos elementos pares'''
+#soma de todos elementos pares
 
 def ehPar(n):
     r = (n%2==0) #funcão para verificar se é par

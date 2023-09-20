@@ -1,4 +1,4 @@
-"""exercicio valor com desconto"""
+#exercicio valor com desconto
 
 preco_unitario = 10
 DESCONTO10 = 0.1

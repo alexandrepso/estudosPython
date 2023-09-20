@@ -1,4 +1,4 @@
-'''determinar se um numero é primo ou não'''
+#determinar se um numero é primo ou não
 
 
 

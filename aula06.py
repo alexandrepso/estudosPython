@@ -1,4 +1,4 @@
-"""Estudo de funções"""
+#Estudo de funções
 
 def encontra_minimo(lista):
     minimo = lista[0]

@@ -1,4 +1,4 @@
-"""some todos os pares de uma lista"""
+#some todos os pares de uma lista
 
 lista = [10,2,5,7,6,3]
 n = len(lista)

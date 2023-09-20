@@ -1,7 +1,7 @@
 
 
 
-""" aprovado ou não aprovado"""
+#aprovado ou não aprovado
 
 media = 8.5
 

@@ -1,6 +1,6 @@
 
 
-"""impar ou par """
+
 
 numero = 46
 
@@ -13,4 +13,4 @@ print(situacao)
 
 
 
-"""impar ou par com input do usuario"""
+#impar ou par com input do usuario
