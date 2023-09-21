@@ -1,4 +1,5 @@
-import numpy as np 
+import numpy as np
+
 
 def entrada_dados():
     coeficiente = quantidade = eval(input("Digite o valor coeficiente"))
